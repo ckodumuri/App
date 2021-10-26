@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InsuranCSBuddy</string>
+
+    <string-array name="medication">
+        <item>ICS</item>
+        <item>ICS LABA</item>
+    </string-array>
+
+    <string-array name="insurance_array">
+        <item>Anthem - Healthy Indiana Plan Plus</item>
+        <item>Anthem - Healthy Indiana Plan Basic</item>
+        <item>Anthem - Hoosier Care Connect</item>
+        <item>Anthem - Hoosier Healthwise</item>
+        <item>CareSource - HIP Plus/State Plan Plus</item>
+        <item>CareSource - HIP Basic/HIP State Plan Basic/Hoosier Healthwise A and C</item>
+        <item>MDwise - Healthy Indiana Plan Plus</item>
+        <item>MDwise - Healthy Indiana Plan Basic</item>
+        <item>MDwise - Healthy Indiana Plan State</item>
+        <item>MDwise - Hoosier Healthwise</item>
+        <item>MHS - HIP Plus /HIP Basic/Hoosier Healthwise/HCC</item>
+        <item>UnitedHealthcare - Hoosier Care Connect</item>
+    </string-array>
+</resources>
