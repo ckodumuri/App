@@ -1,7 +1,7 @@
 
-// queries.js
+// queries.js 
+// fix this so that we can actually use it in index.js
 class DatabaseQueries {
-  // this is more or less what you wrote cause im just kinda stupid :)
   connection;
 
   constructor(connection) { this.connection = connection; }
