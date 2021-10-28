@@ -1,0 +1,18 @@
+﻿id,name,plan,is_medicaid
+1,Optum,OptumRx,1
+2,Anthem,Healthy Indiana Plan Plus,1
+3,Anthem,Healthy Indiana Plan Basic,1
+4,Anthem,Hoosier Care Connect,1
+5,Anthem,Hoosier Healthwise,1
+6,CareSource,CareSource,1
+7,MDWise,Healthy Indiana Plan Plus,1
+8,MDWise,Healthy Indiana Plan Basic,1
+9,MDWise,Healthy Indiana Plan State,1
+10,MDWise,Hoosier Healthwise,1
+11,MHS - Medicaid,Hoosier Healthwise,1
+12,MHS - Medicaid,Hoosier Care Connect,1
+13,MHS - Medicaid,Healthy Indiana Plan Basic/State,1
+14,MHS - Medicaid,Healthy Indiana Plan Plus/State Plan Plus,1
+15,MHS,Ambetter,0
+16,MHS,Allwell,0
+17,United Healthcare,Hoosier Care Connect,1

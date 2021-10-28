@@ -1,0 +1,34 @@
+﻿id,name,type,is_generic
+23,Advair HFA 115/21,ICS_LABA,0
+24,Advair HFA 230/21,ICS_LABA,0
+13,Advair HFA 45/21,ICS_LABA,0
+15,AirDuo RespiClick 113/14,ICS_LABA,0
+29,AirDuo RespiClick 232/14,ICS_LABA,0
+28,AirDuo RespiClick 55/14,ICS_LABA,0
+8,Alvesco,ICS,0
+20,Arnuity Ellipta,ICS_LABA,0
+11,Asmanex HFA,ICS_LABA,0
+5,beclomethasone,ICS,1
+19,Breo,ICS_LABA,0
+3,budesonide,ICS,1
+16,budesonide-formoterol,ICS_LABA,1
+7,ciclesonide,ICS,1
+25,Dulera 100-5mcg,ICS_LABA,0
+26,Dulera 200-5mcg,ICS_LABA,0
+22,Dulera 50-5mcg,ICS_LABA,0
+2,Flovent HFA,ICS,0
+1,fluticasone,ICS,1
+12,"fluticasone-salmeterol 100-50 mcg/dose, 250-50 mcg/dose, 500-50 mcg/dose",ICS_LABA,1
+30,fluticasone-salmeterol 113-14 mcg/act,ICS_LABA,1
+31,fluticasone-salmeterol 232-14 mcg/act,ICS_LABA,1
+32,fluticasone-salmeterol 55-14 mgc/act,ICS_LABA,1
+18,fluticasone-vilanterol,ICS_LABA,1
+10,mometasone,ICS_LABA,1
+21,mometasone-formoterol,ICS_LABA,1
+9,Onmaris,ICS,0
+4,Pulmicort FlexiHaler,ICS,0
+6,Qvar RediHaler 40,ICS,0
+27,Symbicort 160-4.5,ICS_LABA,0
+17,Symbicort 80-4.5mcg,ICS_LABA,0
+14,Wixela Inhub,ICS_LABA,0
+33,Qvar RediHaler 80,ICS,0
